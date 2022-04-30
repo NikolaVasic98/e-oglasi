@@ -8,11 +8,11 @@
     display: flex;
     .main {
       border: 1px solid;
-      flex-grow: 6;
+      width: 80%;
     }
 
     .ads {
-      flex-grow: 1;
+      width: 20%;
     }
   }
 }

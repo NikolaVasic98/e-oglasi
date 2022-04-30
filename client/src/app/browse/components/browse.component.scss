@@ -1,0 +1,39 @@
+.rows {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  .columns {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    padding: 10px;
+
+    .ad {
+      border: 1px solid;
+      cursor: pointer;
+      margin: 10px;
+      transition: transform 0.2s;
+      padding: 10px;
+
+      &:hover {
+        transform: scale(1.1);
+        border: 2px solid;
+
+        &::after {
+          height: 100%;
+        }
+      }
+
+      &::after {
+        content: "Poslee";
+        height: 0%;
+      }
+
+      img {
+        max-width: 200px;
+      }
+    }
+  }
+}

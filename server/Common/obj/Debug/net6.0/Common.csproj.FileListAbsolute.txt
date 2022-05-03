@@ -1,0 +1,12 @@
+D:\Nikola\E-Oglasi\server\Common\bin\Debug\net6.0\Common.deps.json
+D:\Nikola\E-Oglasi\server\Common\bin\Debug\net6.0\Common.dll
+D:\Nikola\E-Oglasi\server\Common\bin\Debug\net6.0\Common.pdb
+D:\Nikola\E-Oglasi\server\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+D:\Nikola\E-Oglasi\server\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nikola\E-Oglasi\server\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\Nikola\E-Oglasi\server\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\Nikola\E-Oglasi\server\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\Nikola\E-Oglasi\server\Common\obj\Debug\net6.0\Common.dll
+D:\Nikola\E-Oglasi\server\Common\obj\Debug\net6.0\refint\Common.dll
+D:\Nikola\E-Oglasi\server\Common\obj\Debug\net6.0\Common.pdb
+D:\Nikola\E-Oglasi\server\Common\obj\Debug\net6.0\ref\Common.dll

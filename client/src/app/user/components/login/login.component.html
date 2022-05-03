@@ -1,0 +1,11 @@
+<div class="login" *ngIf="loggedUser; else login">
+  <span>{{ loggedUser.firstName + " " + loggedUser.lastName }}</span>
+</div>
+
+<ng-template #login>
+  <form [formGroup]="loginForm" (ngSubmit)="onLogin()">
+    <input type="text" placeholder="Username" formControlName="username" />
+    <input type="password" placeholder="Password" formControlName="password" />
+    <input type="submit" value="Login" />
+  </form>
+</ng-template>

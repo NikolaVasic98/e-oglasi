@@ -1,0 +1,15 @@
+D:\Nikola\E-Oglasi\server\Authorization\obj\Debug\net6.0\Authorization.csproj.AssemblyReference.cache
+D:\Nikola\E-Oglasi\server\Authorization\obj\Debug\net6.0\Authorization.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nikola\E-Oglasi\server\Authorization\obj\Debug\net6.0\Authorization.AssemblyInfoInputs.cache
+D:\Nikola\E-Oglasi\server\Authorization\obj\Debug\net6.0\Authorization.AssemblyInfo.cs
+D:\Nikola\E-Oglasi\server\Authorization\obj\Debug\net6.0\Authorization.csproj.CoreCompileInputs.cache
+D:\Nikola\E-Oglasi\server\Authorization\bin\Debug\net6.0\Authorization.deps.json
+D:\Nikola\E-Oglasi\server\Authorization\bin\Debug\net6.0\Authorization.dll
+D:\Nikola\E-Oglasi\server\Authorization\bin\Debug\net6.0\Authorization.pdb
+D:\Nikola\E-Oglasi\server\Authorization\bin\Debug\net6.0\Common.dll
+D:\Nikola\E-Oglasi\server\Authorization\bin\Debug\net6.0\Common.pdb
+D:\Nikola\E-Oglasi\server\Authorization\obj\Debug\net6.0\Authorization.csproj.CopyComplete
+D:\Nikola\E-Oglasi\server\Authorization\obj\Debug\net6.0\Authorization.dll
+D:\Nikola\E-Oglasi\server\Authorization\obj\Debug\net6.0\refint\Authorization.dll
+D:\Nikola\E-Oglasi\server\Authorization\obj\Debug\net6.0\Authorization.pdb
+D:\Nikola\E-Oglasi\server\Authorization\obj\Debug\net6.0\ref\Authorization.dll

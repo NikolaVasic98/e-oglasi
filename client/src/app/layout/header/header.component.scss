@@ -1,3 +1,10 @@
 .wrapper {
   border: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+
+  .title {
+    flex-grow: 5;
+  }
 }

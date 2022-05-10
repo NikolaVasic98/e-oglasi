@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Bussines Logic\Bussines Logic.csproj" />
+    <ProjectReference Include="..\Database Layer\Database Layer.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1,0 +1,17 @@
+D:\Nikola\E-Oglasi\server\Bussines Logic\bin\Debug\net6.0\Bussines Logic.deps.json
+D:\Nikola\E-Oglasi\server\Bussines Logic\bin\Debug\net6.0\Bussines Logic.dll
+D:\Nikola\E-Oglasi\server\Bussines Logic\bin\Debug\net6.0\Bussines Logic.pdb
+D:\Nikola\E-Oglasi\server\Bussines Logic\obj\Debug\net6.0\Bussines Logic.csproj.AssemblyReference.cache
+D:\Nikola\E-Oglasi\server\Bussines Logic\obj\Debug\net6.0\Bussines Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nikola\E-Oglasi\server\Bussines Logic\obj\Debug\net6.0\Bussines Logic.AssemblyInfoInputs.cache
+D:\Nikola\E-Oglasi\server\Bussines Logic\obj\Debug\net6.0\Bussines Logic.AssemblyInfo.cs
+D:\Nikola\E-Oglasi\server\Bussines Logic\obj\Debug\net6.0\Bussines Logic.csproj.CoreCompileInputs.cache
+D:\Nikola\E-Oglasi\server\Bussines Logic\obj\Debug\net6.0\Bussines Logic.dll
+D:\Nikola\E-Oglasi\server\Bussines Logic\obj\Debug\net6.0\refint\Bussines Logic.dll
+D:\Nikola\E-Oglasi\server\Bussines Logic\obj\Debug\net6.0\Bussines Logic.pdb
+D:\Nikola\E-Oglasi\server\Bussines Logic\obj\Debug\net6.0\ref\Bussines Logic.dll
+D:\Nikola\E-Oglasi\server\Bussines Logic\bin\Debug\net6.0\Common.dll
+D:\Nikola\E-Oglasi\server\Bussines Logic\bin\Debug\net6.0\Database Layer.dll
+D:\Nikola\E-Oglasi\server\Bussines Logic\bin\Debug\net6.0\Common.pdb
+D:\Nikola\E-Oglasi\server\Bussines Logic\bin\Debug\net6.0\Database Layer.pdb
+D:\Nikola\E-Oglasi\server\Bussines Logic\obj\Debug\net6.0\Bussines Logic.csproj.CopyComplete

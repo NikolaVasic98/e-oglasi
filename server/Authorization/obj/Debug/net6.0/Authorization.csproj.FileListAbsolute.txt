@@ -13,3 +13,7 @@ D:\Nikola\E-Oglasi\server\Authorization\obj\Debug\net6.0\Authorization.dll
 D:\Nikola\E-Oglasi\server\Authorization\obj\Debug\net6.0\refint\Authorization.dll
 D:\Nikola\E-Oglasi\server\Authorization\obj\Debug\net6.0\Authorization.pdb
 D:\Nikola\E-Oglasi\server\Authorization\obj\Debug\net6.0\ref\Authorization.dll
+D:\Nikola\E-Oglasi\server\Authorization\bin\Debug\net6.0\Bussines Logic.dll
+D:\Nikola\E-Oglasi\server\Authorization\bin\Debug\net6.0\Database Layer.dll
+D:\Nikola\E-Oglasi\server\Authorization\bin\Debug\net6.0\Bussines Logic.pdb
+D:\Nikola\E-Oglasi\server\Authorization\bin\Debug\net6.0\Database Layer.pdb

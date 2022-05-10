@@ -1,0 +1,14 @@
+D:\Nikola\E-Oglasi\server\Database Layer\bin\Debug\net6.0\Database Layer.deps.json
+D:\Nikola\E-Oglasi\server\Database Layer\bin\Debug\net6.0\Database Layer.runtimeconfig.json
+D:\Nikola\E-Oglasi\server\Database Layer\bin\Debug\net6.0\Database Layer.dll
+D:\Nikola\E-Oglasi\server\Database Layer\bin\Debug\net6.0\Database Layer.pdb
+D:\Nikola\E-Oglasi\server\Database Layer\obj\Debug\net6.0\Database Layer.csproj.AssemblyReference.cache
+D:\Nikola\E-Oglasi\server\Database Layer\obj\Debug\net6.0\Database Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nikola\E-Oglasi\server\Database Layer\obj\Debug\net6.0\Database Layer.AssemblyInfoInputs.cache
+D:\Nikola\E-Oglasi\server\Database Layer\obj\Debug\net6.0\Database Layer.AssemblyInfo.cs
+D:\Nikola\E-Oglasi\server\Database Layer\obj\Debug\net6.0\Database Layer.csproj.CoreCompileInputs.cache
+D:\Nikola\E-Oglasi\server\Database Layer\obj\Debug\net6.0\Database Layer.dll
+D:\Nikola\E-Oglasi\server\Database Layer\obj\Debug\net6.0\refint\Database Layer.dll
+D:\Nikola\E-Oglasi\server\Database Layer\obj\Debug\net6.0\Database Layer.pdb
+D:\Nikola\E-Oglasi\server\Database Layer\obj\Debug\net6.0\Database Layer.genruntimeconfig.cache
+D:\Nikola\E-Oglasi\server\Database Layer\obj\Debug\net6.0\ref\Database Layer.dll

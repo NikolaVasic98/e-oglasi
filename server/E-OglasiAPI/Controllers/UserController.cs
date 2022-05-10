@@ -3,6 +3,7 @@ using Authorization.Interfaces;
 using Authorization.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using User_Interface_Layer.Interfaces;
 
 namespace E_OglasiAPI.Controllers
 {
@@ -11,20 +12,25 @@ namespace E_OglasiAPI.Controllers
     public class UserController : ControllerBase
     {
         private IUserService _userService;
-        public UserController(IUserService userService)
+        private readonly IUserUIL userUIL;
+        public UserController(IUserService userService, IUserUIL userUIL)
         {
             this._userService = userService;
+            this.userUIL = userUIL;
         }
         [HttpPost]
         [Route("authenticate")]
         public IActionResult Authenticate(AuthenticateRequest request)
         {
-            AuthenticateResponse response = this._userService.Authenticate(request);
-            if(response == null)
+            try
             {
-                return BadRequest(new { message = "Username or password is incorrect." });
+                AuthenticateResponse response = this._userService.Authenticate(request);
+                return Ok(response);
             }
-            return Ok(response);
+            catch(Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
 
         [Authorize]

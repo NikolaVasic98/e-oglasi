@@ -1,5 +1,5 @@
 ﻿using Authorization.Models;
-using Common.Models;
+using Database_Layer.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;

@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { BrowseComponent } from './browse/components/browse.component';
+import { DesignerComponent } from './designer/components/designer.component';
 
 const routes: Routes = [
   {
@@ -11,6 +12,10 @@ const routes: Routes = [
   {
     path: 'browse',
     component: BrowseComponent,
+  },
+  {
+    path: 'designer',
+    component: DesignerComponent,
   },
 ];
 

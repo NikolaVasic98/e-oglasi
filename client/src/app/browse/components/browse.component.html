@@ -2,7 +2,7 @@
   <div class="columns">
     <div class="ad" *ngFor="let ad of ads1" [class]="'ad-' + ad.size">
       <div>
-        <img [src]="ad.imageUrl" alt="" />
+        <img [src]="ad.imageUrl" alt="" (click)="onAdClick()" />
       </div>
     </div>
   </div>
@@ -10,7 +10,7 @@
   <div class="columns">
     <div class="ad" *ngFor="let ad of ads2" [class]="'ad-' + ad.size">
       <div>
-        <img [src]="ad.imageUrl" alt="" />
+        <img [src]="ad.imageUrl" alt="" (click)="onAdClick()" />
       </div>
     </div>
   </div>
@@ -18,7 +18,7 @@
   <div class="columns">
     <div class="ad" *ngFor="let ad of ads3" [class]="'ad-' + ad.size">
       <div>
-        <img [src]="ad.imageUrl" alt="" />
+        <img [src]="ad.imageUrl" alt="" (click)="onAdClick()" />
       </div>
     </div>
   </div>

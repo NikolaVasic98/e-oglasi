@@ -1,0 +1,33 @@
+<span [ngStyle]="{ 'display': item.selected ? 'block' : 'none' }">
+  <div
+    #topPoint
+    class="minimizer-point vertical"
+    [style]="topPointObject.css"
+  ></div>
+  <div
+    #bottomPoint
+    class="minimizer-point vertical"
+    [style]="bottomPointObject.css"
+  ></div>
+  <div
+    #leftPoint
+    class="minimizer-point horizontal"
+    [style]="leftPointObject.css"
+  ></div>
+  <div
+    #rightPoint
+    class="minimizer-point horizontal"
+    [style]="rightPointObject.css"
+  ></div>
+</span>
+<div
+  #rectangle
+  cdkDrag
+  class="rectangle"
+  (cdkDragEnded)="drop($event)"
+  (cdkDragStarted)="drag($event)"
+  (click)="onClick()"
+  [style]="item.css"
+  appResizeable
+  [item]="item"
+></div>

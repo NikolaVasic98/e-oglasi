@@ -13,6 +13,14 @@ import { ReactiveFormsModule } from '@angular/forms';
 import { LoginComponent } from './user/components/login/login.component';
 import { RegistrationComponent } from './user/components/registration/registration.component';
 import { AuthInterceptor } from './common/interceptors/auth.interceptor';
+import { DesignerComponent } from './designer/components/designer.component';
+import { MenuComponent } from './designer/components/menu/menu.component';
+import { CanvasComponent } from './designer/components/canvas/canvas.component';
+import { DesignItemComponent } from './designer/components/canvas/design-item/design-item.component';
+import { RectangleComponent } from './designer/components/canvas/design-item/rectangle/rectangle.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { DragDropModule } from '@angular/cdk/drag-drop';
+import { ResizeableDirective } from './designer/directives/resizeable.directive';
 
 @NgModule({
   declarations: [
@@ -23,12 +31,20 @@ import { AuthInterceptor } from './common/interceptors/auth.interceptor';
     BrowseComponent,
     LoginComponent,
     RegistrationComponent,
+    DesignerComponent,
+    DesignItemComponent,
+    MenuComponent,
+    CanvasComponent,
+    RectangleComponent,
+    ResizeableDirective,
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
     ReactiveFormsModule,
+    DragDropModule,
+    BrowserAnimationsModule,
   ],
   providers: [
     { provide: HTTP_INTERCEPTORS, useClass: AuthInterceptor, multi: true },

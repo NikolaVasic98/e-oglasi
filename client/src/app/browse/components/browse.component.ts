@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Router } from '@angular/router';
 import { Ad } from '../models/ad.model';
 import { AdsService } from '../services/ads.service';
 @Component({
@@ -12,7 +13,7 @@ export class BrowseComponent implements OnInit {
   ads2: Ad[] = [];
   ads3: Ad[] = [];
 
-  constructor(private adService: AdsService) {}
+  constructor(private adService: AdsService, private router: Router) {}
 
   async ngOnInit(): Promise<void> {
     for (let i = 0; i < 90; i++) {
@@ -29,5 +30,9 @@ export class BrowseComponent implements OnInit {
         this.ads3.push(ad);
       }
     }
+  }
+
+  onAdClick(): void {
+    this.router.navigate(['/designer']);
   }
 }

@@ -1,0 +1,16 @@
+.canvas {
+  width: 700px;
+  height: 500px;
+  border: 1px solid black;
+  margin-left: 50px;
+  position: relative;
+  overflow: hidden;
+
+  &-item {
+    position: absolute;
+  }
+}
+
+.appendMode {
+  cursor: cell;
+}

@@ -1,0 +1,10 @@
+<div
+  #canvas
+  class="canvas"
+  [ngClass]="{ 'appendMode': isItemAppendable() }"
+  (click)="onClick($event)"
+>
+  <div class="canvas-item" *ngFor="let item of canvasItems">
+    <app-design-item [item]="item"></app-design-item>
+  </div>
+</div>

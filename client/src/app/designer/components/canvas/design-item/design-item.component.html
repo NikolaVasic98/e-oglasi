@@ -1,0 +1,7 @@
+<div [ngSwitch]="item.type" class="design-item">
+  <div *ngSwitchCase="types.Rectangle">
+    <app-rectangle [item]="getTypedObject()"></app-rectangle>
+  </div>
+  <div *ngSwitchCase="types.Text">Text</div>
+  <div *ngSwitchDefault>Else</div>
+</div>
